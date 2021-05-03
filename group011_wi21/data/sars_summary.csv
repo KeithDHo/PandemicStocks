@@ -1,0 +1,2539 @@
+Date,Country,Cumulative number of case(s),Number of deaths
+3/17/03,Germany,1,0
+3/17/03,Canada,8,2
+3/17/03,Singapore,20,0
+3/17/03,"Hong Kong SAR, China",95,1
+3/17/03,Switzerland,2,0
+3/17/03,Thailand,1,0
+3/17/03,Viet Nam,40,1
+3/18/03,Germany,2,0
+3/18/03,Canada,8,2
+3/18/03,China,0,0
+3/18/03,Singapore,23,0
+3/18/03,"Hong Kong SAR, China",123,1
+3/18/03,"Taiwan, China",3,0
+3/18/03,Thailand,1,0
+3/18/03,Viet Nam,57,1
+3/18/03,Slovenia,1,0
+3/18/03,United Kingdom,1,0
+3/19/03,Canada,8,2
+3/19/03,China,0,0
+3/19/03,Germany,1,0
+3/19/03,"Hong Kong SAR, China",150,5
+3/19/03,Singapore,31,0
+3/19/03,Slovenia,1,0
+3/19/03,Spain,1,0
+3/19/03,"Taiwan, China",3,0
+3/19/03,Thailand,1,0
+3/19/03,United Kingdom,1,0
+3/19/03,United States,11,0
+3/19/03,Viet Nam,56,2
+3/20/03,Canada,9,2
+3/20/03,China,0,0
+3/20/03,Germany,1,0
+3/20/03,"Hong Kong SAR, China",173,6
+3/20/03,Singapore,34,0
+3/20/03,Slovenia,1,0
+3/20/03,Spain,1,0
+3/20/03,Switzerland,7,0
+3/20/03,"Taiwan, China",4,0
+3/20/03,Thailand,1,0
+3/20/03,United Kingdom,2,0
+3/20/03,United States,11,0
+3/20/03,Viet Nam,62,2
+3/21/03,Canada,9,2
+3/21/03,China,0,0
+3/21/03,Germany,1,0
+3/21/03,"Hong Kong SAR, China",203,6
+3/21/03,Italy,1,0
+3/21/03,Republic of Ireland,1,0
+3/21/03,Singapore,39,0
+3/21/03,Slovenia,1,0
+3/21/03,Spain,1,0
+3/21/03,Switzerland,7,0
+3/21/03,"Taiwan, China",6,0
+3/21/03,Thailand,4,0
+3/21/03,United Kingdom,2,0
+3/21/03,United States,13,0
+3/21/03,Viet Nam,62,2
+3/22/03,Canada,9,2
+3/22/03,China,0,0
+3/22/03,Germany,2,0
+3/22/03,"Hong Kong SAR, China",222,7
+3/22/03,Italy,2,0
+3/22/03,Republic of Ireland,1,0
+3/22/03,Singapore,44,0
+3/22/03,Slovenia,1,0
+3/22/03,Spain,1,0
+3/22/03,Switzerland,7,0
+3/22/03,"Taiwan, China",6,0
+3/22/03,Thailand,4,0
+3/22/03,United Kingdom,2,0
+3/22/03,United States,22,0
+3/22/03,Viet Nam,63,2
+3/24/03,Canada,11,3
+3/24/03,China,0,0
+3/24/03,France,1,0
+3/24/03,Germany,4,0
+3/24/03,"Hong Kong SAR, China",260,10
+3/24/03,Italy,2,0
+3/24/03,Republic of Ireland,1,0
+3/24/03,Singapore,65,0
+3/24/03,Spain,1,0
+3/24/03,Switzerland,2,0
+3/24/03,"Taiwan, China",6,0
+3/24/03,Thailand,5,0
+3/24/03,United Kingdom,3,0
+3/24/03,United States,37,0
+3/24/03,Viet Nam,58,4
+3/25/03,Canada,11,3
+3/25/03,China,0,0
+3/25/03,France,1,0
+3/25/03,Germany,4,0
+3/25/03,"Hong Kong SAR, China",286,10
+3/25/03,Italy,2,0
+3/25/03,Republic of Ireland,1,0
+3/25/03,Singapore,69,0
+3/25/03,Switzerland,2,0
+3/25/03,"Taiwan, China",6,0
+3/25/03,Thailand,5,0
+3/25/03,United Kingdom,3,0
+3/25/03,United States,39,0
+3/25/03,Viet Nam,58,4
+3/26/03,Canada,19,3
+3/26/03,China,792,31
+3/26/03,"Hong Kong SAR, China",316,10
+3/26/03,"Taiwan, China",6,0
+3/26/03,France,1,0
+3/26/03,Germany,4,0
+3/26/03,Italy,3,0
+3/26/03,Republic of Ireland,2,0
+3/26/03,Singapore,74,1
+3/26/03,Switzerland,2,0
+3/26/03,Thailand,3,0
+3/26/03,United Kingdom,3,0
+3/26/03,United States,40,0
+3/26/03,Viet Nam,58,4
+3/27/03,Canada,28,3
+3/27/03,China,806,34
+3/27/03,"Hong Kong SAR, China",367,10
+3/27/03,"Taiwan, China",6,0
+3/27/03,France,1,0
+3/27/03,Germany,4,0
+3/27/03,Italy,2,0
+3/27/03,Republic of Ireland,2,0
+3/27/03,Romania,3,0
+3/27/03,Singapore,78,2
+3/27/03,Switzerland,2,0
+3/27/03,Thailand,3,0
+3/27/03,United Kingdom,3,0
+3/27/03,United States,45,0
+3/27/03,Viet Nam,58,4
+3/28/03,Canada,29,3
+3/28/03,China,806,34
+3/28/03,"Hong Kong SAR, China",425,10
+3/28/03,"Taiwan, China",10,0
+3/28/03,France,1,0
+3/28/03,Germany,4,0
+3/28/03,Italy,2,0
+3/28/03,Republic of Ireland,2,0
+3/28/03,Romania,3,0
+3/28/03,Singapore,86,2
+3/28/03,Switzerland,2,0
+3/28/03,Thailand,3,0
+3/28/03,United Kingdom,3,0
+3/28/03,United States,51,0
+3/28/03,Viet Nam,58,4
+3/29/03,Canada,37,3
+3/29/03,China,806,34
+3/29/03,"Hong Kong SAR, China",470,10
+3/29/03,"Taiwan, China",10,0
+3/29/03,France,1,0
+3/29/03,Germany,4,0
+3/29/03,Italy,2,0
+3/29/03,Republic of Ireland,2,0
+3/29/03,Romania,3,0
+3/29/03,Singapore,89,2
+3/29/03,Switzerland,3,0
+3/29/03,Thailand,3,1
+3/29/03,United Kingdom,3,0
+3/29/03,United States,59,0
+3/29/03,Viet Nam,58,4
+3/31/03,Canada,44,4
+3/31/03,China,806,34
+3/31/03,"Hong Kong SAR, China",530,13
+3/31/03,"Taiwan, China",10,0
+3/31/03,France,1,0
+3/31/03,Germany,5,0
+3/31/03,Italy,2,0
+3/31/03,Republic of Ireland,2,0
+3/31/03,Romania,3,0
+3/31/03,Singapore,91,2
+3/31/03,Switzerland,3,0
+3/31/03,Thailand,5,1
+3/31/03,United Kingdom,3,0
+3/31/03,United States,59,0
+3/31/03,Viet Nam,58,4
+4/1/03,Australia,1,0
+4/1/03,Belgium,1,0
+4/1/03,Canada,53,4
+4/1/03,China,806,34
+4/1/03,"Hong Kong SAR, China",685,16
+4/1/03,"Taiwan, China",13,0
+4/1/03,France,1,0
+4/1/03,Germany,5,0
+4/1/03,Italy,3,0
+4/1/03,Republic of Ireland,2,0
+4/1/03,Romania,3,0
+4/1/03,Singapore,92,3
+4/1/03,Switzerland,3,0
+4/1/03,Thailand,6,1
+4/1/03,United Kingdom,3,0
+4/1/03,United States,69,0
+4/1/03,Viet Nam,58,4
+4/2/03,Australia,1,0
+4/2/03,Belgium,1,0
+4/2/03,Canada,58,6
+4/2/03,China,1190,46
+4/2/03,"Hong Kong SAR, China",708,16
+4/2/03,"Taiwan, China",13,0
+4/2/03,France,1,0
+4/2/03,Germany,5,0
+4/2/03,Italy,3,0
+4/2/03,Republic of Ireland,2,0
+4/2/03,Romania,3,0
+4/2/03,Singapore,95,4
+4/2/03,Spain,1,0
+4/2/03,Switzerland,2,0
+4/2/03,Thailand,7,2
+4/2/03,United Kingdom,3,0
+4/2/03,United States,72,0
+4/2/03,Viet Nam,58,4
+4/3/03,Australia,1,0
+4/3/03,Belgium,1,0
+4/3/03,Brazil,1,0
+4/3/03,Canada,62,6
+4/3/03,China,1190,46
+4/3/03,"Hong Kong SAR, China",734,17
+4/3/03,"Taiwan, China",14,0
+4/3/03,France,3,0
+4/3/03,Germany,5,0
+4/3/03,Italy,3,0
+4/3/03,Republic of Ireland,1,0
+4/3/03,Romania,1,0
+4/3/03,Singapore,98,4
+4/3/03,Switzerland,2,0
+4/3/03,Thailand,7,2
+4/3/03,United Kingdom,3,0
+4/3/03,United States,85,0
+4/3/03,Viet Nam,59,4
+4/4/03,Australia,1,0
+4/4/03,Belgium,1,0
+4/4/03,Brazil,1,0
+4/4/03,Canada,69,7
+4/4/03,China,1220,49
+4/4/03,"Hong Kong SAR, China",761,17
+4/4/03,"Taiwan, China",15,0
+4/4/03,France,3,0
+4/4/03,Germany,5,0
+4/4/03,Italy,3,0
+4/4/03,Republic of Ireland,1,0
+4/4/03,Romania,1,0
+4/4/03,Singapore,100,5
+4/4/03,Spain,1,0
+4/4/03,Switzerland,2,0
+4/4/03,Thailand,7,2
+4/4/03,United Kingdom,3,0
+4/4/03,United States,100,0
+4/4/03,Viet Nam,59,4
+4/5/03,Australia,1,0
+4/5/03,Belgium,1,0
+4/5/03,Brazil,1,0
+4/5/03,Canada,74,7
+4/5/03,China,1220,49
+4/5/03,"Hong Kong SAR, China",800,20
+4/5/03,"Taiwan, China",17,0
+4/5/03,France,3,0
+4/5/03,Germany,5,0
+4/5/03,Italy,3,0
+4/5/03,Malaysia,1,1
+4/5/03,Republic of Ireland,1,0
+4/5/03,Romania,1,0
+4/5/03,Singapore,101,6
+4/5/03,Spain,1,0
+4/5/03,Switzerland,1,0
+4/5/03,Thailand,7,2
+4/5/03,United Kingdom,4,0
+4/5/03,United States,115,0
+4/5/03,Viet Nam,59,4
+4/7/03,Australia,1,0
+4/7/03,Brazil,1,0
+4/7/03,Canada,90,9
+4/7/03,China,1268,53
+4/7/03,"Hong Kong SAR, China",883,23
+4/7/03,"Taiwan, China",21,0
+4/7/03,France,3,0
+4/7/03,Germany,5,0
+4/7/03,Italy,3,0
+4/7/03,Malaysia,1,1
+4/7/03,Republic of Ireland,1,0
+4/7/03,Romania,1,0
+4/7/03,Singapore,106,6
+4/7/03,Spain,1,0
+4/7/03,Switzerland,1,0
+4/7/03,Thailand,7,2
+4/7/03,United Kingdom,5,0
+4/7/03,United States,141,0
+4/7/03,Viet Nam,62,4
+4/8/03,Australia,1,0
+4/8/03,Brazil,1,0
+4/8/03,Canada,91,10
+4/8/03,China,1279,53
+4/8/03,"Hong Kong SAR, China",928,25
+4/8/03,"Taiwan, China",19,0
+4/8/03,France,4,0
+4/8/03,Germany,5,0
+4/8/03,Italy,3,0
+4/8/03,Malaysia,1,1
+4/8/03,Republic of Ireland,1,0
+4/8/03,Romania,1,0
+4/8/03,Singapore,113,8
+4/8/03,Spain,1,0
+4/8/03,Switzerland,1,0
+4/8/03,Thailand,7,2
+4/8/03,United Kingdom,5,0
+4/8/03,United States,148,0
+4/8/03,Viet Nam,62,4
+4/9/03,Brazil,1,0
+4/9/03,Canada,94,10
+4/9/03,China,1280,53
+4/9/03,"Hong Kong SAR, China",970,27
+4/9/03,"Taiwan, China",19,0
+4/9/03,France,4,0
+4/9/03,Germany,5,0
+4/9/03,Italy,3,0
+4/9/03,Malaysia,1,1
+4/9/03,Republic of Ireland,1,0
+4/9/03,Romania,1,0
+4/9/03,Singapore,118,9
+4/9/03,Spain,1,0
+4/9/03,Switzerland,1,0
+4/9/03,Thailand,7,2
+4/9/03,United Kingdom,5,0
+4/9/03,United States,149,0
+4/9/03,Viet Nam,62,4
+4/10/03,Brazil,2,0
+4/10/03,Canada,97,10
+4/10/03,China,1290,55
+4/10/03,"Hong Kong SAR, China",998,30
+4/10/03,"Taiwan, China",19,0
+4/10/03,France,4,0
+4/10/03,Germany,6,0
+4/10/03,Italy,3,0
+4/10/03,Kuwait,1,0
+4/10/03,Malaysia,3,1
+4/10/03,Republic of Ireland,1,0
+4/10/03,Romania,1,0
+4/10/03,Singapore,126,9
+4/10/03,Spain,1,0
+4/10/03,Switzerland,1,0
+4/10/03,Thailand,7,2
+4/10/03,United Kingdom,5,0
+4/10/03,United States,154,0
+4/10/03,Viet Nam,62,4
+4/11/03,Brazil,2,0
+4/11/03,Canada,98,10
+4/11/03,China,1309,58
+4/11/03,"Hong Kong SAR, China",1059,32
+4/11/03,"Taiwan, China",21,0
+4/11/03,France,5,0
+4/11/03,Germany,6,0
+4/11/03,Italy,3,0
+4/11/03,Japan,4,0
+4/11/03,Kuwait,1,0
+4/11/03,Malaysia,4,1
+4/11/03,Republic of Ireland,1,0
+4/11/03,Romania,1,0
+4/11/03,Singapore,133,9
+4/11/03,South Africa,1,0
+4/11/03,Spain,1,0
+4/11/03,Switzerland,1,0
+4/11/03,Thailand,7,2
+4/11/03,United Kingdom,5,0
+4/11/03,United States,166,0
+4/11/03,Viet Nam,62,4
+4/12/03,Brazil,2,0
+4/12/03,Canada,101,10
+4/12/03,China,1309,58
+4/12/03,"Hong Kong SAR, China",1108,35
+4/12/03,"Taiwan, China",23,0
+4/12/03,France,5,0
+4/12/03,Germany,6,0
+4/12/03,Italy,3,0
+4/12/03,Japan,4,0
+4/12/03,Kuwait,1,0
+4/12/03,Malaysia,4,1
+4/12/03,Republic of Ireland,1,0
+4/12/03,Romania,1,0
+4/12/03,Singapore,147,9
+4/12/03,South Africa,1,0
+4/12/03,Spain,1,0
+4/12/03,Switzerland,1,0
+4/12/03,Thailand,8,2
+4/12/03,United Kingdom,6,0
+4/12/03,United States,166,0
+4/12/03,China,62,4
+4/14/03,Brazil,2,0
+4/14/03,Canada,100,13
+4/14/03,China,1418,64
+4/14/03,"Hong Kong SAR, China",1190,47
+4/14/03,"Taiwan, China",23,0
+4/14/03,France,5,0
+4/14/03,Germany,6,0
+4/14/03,Indonesia,1,0
+4/14/03,Italy,3,0
+4/14/03,Kuwait,1,0
+4/14/03,Malaysia,4,1
+4/14/03,Philippines,1,0
+4/14/03,Republic of Ireland,1,0
+4/14/03,Romania,1,0
+4/14/03,Singapore,158,12
+4/14/03,South Africa,1,0
+4/14/03,Spain,1,0
+4/14/03,Sweden,1,0
+4/14/03,Switzerland,1,0
+4/14/03,Thailand,8,2
+4/14/03,United Kingdom,6,0
+4/14/03,United States,174,0
+4/14/03,Viet Nam,63,5
+4/15/03,Brazil,2,0
+4/15/03,Canada,100,13
+4/15/03,China,1418,64
+4/15/03,"Hong Kong SAR, China",1232,56
+4/15/03,"Taiwan, China",23,0
+4/15/03,France,5,0
+4/15/03,Germany,6,0
+4/15/03,Indonesia,1,0
+4/15/03,Italy,3,0
+4/15/03,Japan,1,0
+4/15/03,Kuwait,1,0
+4/15/03,Malaysia,4,1
+4/15/03,Philippines,1,0
+4/15/03,Republic of Ireland,1,0
+4/15/03,Romania,1,0
+4/15/03,Singapore,162,13
+4/15/03,South Africa,1,0
+4/15/03,Spain,1,0
+4/15/03,Sweden,1,0
+4/15/03,Switzerland,1,0
+4/15/03,Thailand,8,2
+4/15/03,United Kingdom,6,0
+4/15/03,United States,193,0
+4/15/03,Viet Nam,63,5
+4/16/03,Brazil,2,0
+4/16/03,Canada,103,13
+4/16/03,China,1432,64
+4/16/03,"Hong Kong SAR, China",1268,61
+4/16/03,"Taiwan, China",27,0
+4/16/03,France,5,0
+4/16/03,Germany,6,0
+4/16/03,Indonesia,1,0
+4/16/03,Italy,3,0
+4/16/03,Japan,1,0
+4/16/03,Kuwait,1,0
+4/16/03,Malaysia,5,1
+4/16/03,Philippines,1,0
+4/16/03,Republic of Ireland,1,0
+4/16/03,Romania,1,0
+4/16/03,Singapore,162,13
+4/16/03,South Africa,1,0
+4/16/03,Spain,1,0
+4/16/03,Sweden,1,0
+4/16/03,Switzerland,1,0
+4/16/03,Thailand,8,2
+4/16/03,United Kingdom,6,0
+4/16/03,United States,193,0
+4/16/03,Viet Nam,63,5
+4/17/03,Australia,3,0
+4/17/03,Brazil,2,0
+4/17/03,Canada,126,12
+4/17/03,China,1457,65
+4/17/03,"Hong Kong SAR, China",1297,65
+4/17/03,"Taiwan, China",27,0
+4/17/03,France,5,0
+4/17/03,Germany,6,0
+4/17/03,India,1,0
+4/17/03,Indonesia,1,0
+4/17/03,Italy,3,0
+4/17/03,Japan,2,0
+4/17/03,Kuwait,1,0
+4/17/03,Malaysia,5,1
+4/17/03,Mongolia,3,0
+4/17/03,Philippines,1,0
+4/17/03,Republic of Ireland,1,0
+4/17/03,Romania,1,0
+4/17/03,Singapore,167,15
+4/17/03,South Africa,1,0
+4/17/03,Spain,1,0
+4/17/03,Sweden,1,0
+4/17/03,Switzerland,1,0
+4/17/03,Thailand,8,2
+4/17/03,United Kingdom,6,0
+4/17/03,United States,199,0
+4/17/03,Viet Nam,63,5
+4/18/03,Australia,3,0
+4/18/03,Brazil,2,0
+4/18/03,Canada,132,12
+4/18/03,China,1512,65
+4/18/03,"Hong Kong SAR, China",1358,81
+4/18/03,"Taiwan, China",29,0
+4/18/03,France,5,0
+4/18/03,Germany,6,0
+4/18/03,India,1,0
+4/18/03,Indonesia,1,0
+4/18/03,Italy,3,0
+4/18/03,Japan,4,0
+4/18/03,Kuwait,1,0
+4/18/03,Malaysia,5,1
+4/18/03,Mongolia,3,0
+4/18/03,Philippines,1,0
+4/18/03,Republic of Ireland,1,0
+4/18/03,Romania,1,0
+4/18/03,Singapore,177,16
+4/18/03,South Africa,1,0
+4/18/03,Spain,1,0
+4/18/03,Sweden,3,0
+4/18/03,Switzerland,1,0
+4/18/03,Thailand,7,2
+4/18/03,United Kingdom,6,0
+4/18/03,United States,220,0
+4/18/03,Viet Nam,63,5
+4/19/03,Australia,3,0
+4/19/03,Brazil,2,0
+4/19/03,Canada,132,12
+4/19/03,China,1512,65
+4/19/03,"Hong Kong SAR, China",1358,81
+4/19/03,"Taiwan, China",29,0
+4/19/03,France,5,0
+4/19/03,Germany,6,0
+4/19/03,India,1,0
+4/19/03,Indonesia,1,0
+4/19/03,Italy,3,0
+4/19/03,Japan,4,0
+4/19/03,Kuwait,1,0
+4/19/03,Malaysia,5,1
+4/19/03,Mongolia,3,0
+4/19/03,Philippines,1,0
+4/19/03,Republic of Ireland,1,0
+4/19/03,Romania,1,0
+4/19/03,Singapore,177,16
+4/19/03,South Africa,1,0
+4/19/03,Spain,1,0
+4/19/03,Sweden,3,0
+4/19/03,Switzerland,1,0
+4/19/03,Thailand,7,2
+4/19/03,United Kingdom,6,0
+4/19/03,United States,220,0
+4/19/03,Viet Nam,63,5
+4/21/03,Australia,3,0
+4/21/03,Brazil,2,0
+4/21/03,Canada,132,12
+4/21/03,China,1959,86
+4/21/03,"Hong Kong SAR, China",1402,94
+4/21/03,"Taiwan, China",29,0
+4/21/03,France,5,0
+4/21/03,Germany,6,0
+4/21/03,India,1,0
+4/21/03,Indonesia,1,0
+4/21/03,Italy,3,0
+4/21/03,Japan,5,0
+4/21/03,Kuwait,1,0
+4/21/03,Malaysia,6,1
+4/21/03,Mongolia,3,0
+4/21/03,Philippines,2,1
+4/21/03,Republic of Ireland,1,0
+4/21/03,Romania,1,0
+4/21/03,Singapore,178,16
+4/21/03,South Africa,1,0
+4/21/03,Spain,1,0
+4/21/03,Sweden,3,0
+4/21/03,Switzerland,1,0
+4/21/03,Thailand,7,2
+4/21/03,United Kingdom,6,0
+4/21/03,United States,39,0
+4/21/03,Viet Nam,63,5
+4/22/03,Australia,3,0
+4/22/03,Brazil,2,0
+4/22/03,Canada,139,13
+4/22/03,China,2001,92
+4/22/03,"Hong Kong SAR, China",1434,99
+4/22/03,"Taiwan, China",29,0
+4/22/03,France,5,0
+4/22/03,Germany,7,0
+4/22/03,India,1,0
+4/22/03,Indonesia,1,0
+4/22/03,Italy,3,0
+4/22/03,Japan,2,0
+4/22/03,Kuwait,1,0
+4/22/03,Malaysia,6,1
+4/22/03,Mongolia,3,0
+4/22/03,Philippines,2,1
+4/22/03,Republic of Ireland,1,0
+4/22/03,Romania,1,0
+4/22/03,Singapore,186,16
+4/22/03,South Africa,1,0
+4/22/03,Spain,1,0
+4/22/03,Sweden,3,0
+4/22/03,Switzerland,1,0
+4/22/03,Thailand,7,2
+4/22/03,United Kingdom,6,0
+4/22/03,United States,38,0
+4/22/03,Viet Nam,63,5
+4/23/03,Australia,4,0
+4/23/03,Brazil,2,0
+4/23/03,Canada,140,13
+4/23/03,China,2305,106
+4/23/03,"Hong Kong SAR, China",1458,105
+4/23/03,"Taiwan, China",37,0
+4/23/03,France,5,0
+4/23/03,Germany,7,0
+4/23/03,India,1,0
+4/23/03,Indonesia,1,0
+4/23/03,Italy,3,0
+4/23/03,Japan,2,0
+4/23/03,Kuwait,1,0
+4/23/03,Malaysia,5,2
+4/23/03,Mongolia,3,0
+4/23/03,Philippines,2,1
+4/23/03,Republic of Ireland,1,0
+4/23/03,Romania,1,0
+4/23/03,Singapore,189,17
+4/23/03,South Africa,1,0
+4/23/03,Spain,1,0
+4/23/03,Sweden,3,0
+4/23/03,Switzerland,1,0
+4/23/03,Thailand,7,2
+4/23/03,United Kingdom,6,0
+4/23/03,United States,39,0
+4/23/03,Viet Nam,63,5
+4/24/03,Brazil,2,0
+4/24/03,Bulgaria,1,0
+4/24/03,Canada,140,15
+4/24/03,China,2422,110
+4/24/03,"Hong Kong SAR, China",1488,109
+4/24/03,"Taiwan, China",37,0
+4/24/03,France,5,0
+4/24/03,Germany,7,0
+4/24/03,India,1,0
+4/24/03,Indonesia,1,0
+4/24/03,Italy,4,0
+4/24/03,Japan,2,0
+4/24/03,Kuwait,1,0
+4/24/03,Malaysia,5,2
+4/24/03,Mongolia,3,0
+4/24/03,Philippines,2,1
+4/24/03,Republic of Ireland,1,0
+4/24/03,Romania,1,0
+4/24/03,Singapore,192,19
+4/24/03,South Africa,1,0
+4/24/03,Spain,1,0
+4/24/03,Sweden,3,0
+4/24/03,Switzerland,1,0
+4/24/03,Thailand,8,2
+4/24/03,United Kingdom,6,0
+4/24/03,United States,37,0
+4/24/03,Viet Nam,63,5
+4/25/03,Brazil,2,0
+4/25/03,Bulgaria,1,0
+4/25/03,Canada,140,15
+4/25/03,China,2601,115
+4/25/03,"Hong Kong SAR, China",1510,115
+4/25/03,"Taiwan, China",41,0
+4/25/03,France,5,0
+4/25/03,Germany,7,0
+4/25/03,India,1,0
+4/25/03,Indonesia,1,0
+4/25/03,Italy,4,0
+4/25/03,Japan,2,0
+4/25/03,Kuwait,1,0
+4/25/03,Malaysia,5,2
+4/25/03,Mongolia,3,0
+4/25/03,Philippines,2,1
+4/25/03,Republic of Ireland,1,0
+4/25/03,Romania,1,0
+4/25/03,Singapore,195,19
+4/25/03,South Africa,1,0
+4/25/03,Spain,1,0
+4/25/03,Sweden,3,0
+4/25/03,Switzerland,1,0
+4/25/03,Thailand,8,2
+4/25/03,United Kingdom,6,0
+4/25/03,United States,39,0
+4/25/03,Viet Nam,63,5
+4/26/03,Brazil,2,0
+4/26/03,Bulgaria,1,0
+4/26/03,Canada,142,18
+4/26/03,China,2753,122
+4/26/03,"Hong Kong SAR, China",1527,121
+4/26/03,"Taiwan, China",49,0
+4/26/03,France,5,0
+4/26/03,Germany,7,0
+4/26/03,India,1,0
+4/26/03,Indonesia,1,0
+4/26/03,Italy,4,0
+4/26/03,Japan,2,0
+4/26/03,Kuwait,1,0
+4/26/03,Malaysia,5,2
+4/26/03,Mongolia,5,0
+4/26/03,Philippines,4,2
+4/26/03,Republic of Ireland,1,0
+4/26/03,Romania,1,0
+4/26/03,Singapore,198,21
+4/26/03,South Africa,1,0
+4/26/03,Spain,1,0
+4/26/03,Sweden,3,0
+4/26/03,Switzerland,1,0
+4/26/03,Thailand,7,2
+4/26/03,United Kingdom,6,0
+4/26/03,United States,41,0
+4/26/03,Viet Nam,63,5
+4/28/03,Brazil,2,0
+4/28/03,Bulgaria,1,0
+4/28/03,Canada,142,18
+4/28/03,China,2914,131
+4/28/03,"Hong Kong SAR, China",1557,138
+4/28/03,"Taiwan, China",66,0
+4/28/03,France,5,0
+4/28/03,Germany,7,0
+4/28/03,India,1,0
+4/28/03,Indonesia,1,0
+4/28/03,Italy,8,0
+4/28/03,Japan,2,0
+4/28/03,Kuwait,1,0
+4/28/03,Malaysia,6,2
+4/28/03,Mongolia,5,0
+4/28/03,Philippines,4,2
+4/28/03,Republic of Ireland,1,0
+4/28/03,Romania,1,0
+4/28/03,Singapore,199,23
+4/28/03,South Africa,1,0
+4/28/03,Spain,1,0
+4/28/03,Sweden,3,0
+4/28/03,Switzerland,1,0
+4/28/03,Thailand,7,2
+4/28/03,United Kingdom,6,0
+4/28/03,United States,41,0
+4/28/03,Viet Nam,63,5
+4/29/03,Brazil,2,0
+4/29/03,Bulgaria,1,0
+4/29/03,Canada,146,20
+4/29/03,China,3303,148
+4/29/03,"Hong Kong SAR, China",1572,150
+4/29/03,"Taiwan, China",66,0
+4/29/03,France,5,0
+4/29/03,Germany,7,0
+4/29/03,India,1,0
+4/29/03,Indonesia,1,0
+4/29/03,Italy,9,0
+4/29/03,Japan,2,0
+4/29/03,Kuwait,1,0
+4/29/03,Malaysia,6,2
+4/29/03,Mongolia,5,0
+4/29/03,Philippines,4,2
+4/29/03,Republic of Ireland,1,0
+4/29/03,Republic of Korea,1,0
+4/29/03,Romania,1,0
+4/29/03,Singapore,201,24
+4/29/03,South Africa,1,0
+4/29/03,Spain,1,0
+4/29/03,Sweden,3,0
+4/29/03,Switzerland,1,0
+4/29/03,Thailand,7,2
+4/29/03,United Kingdom,6,0
+4/29/03,United States,41,0
+4/29/03,Viet Nam,63,5
+4/30/03,Brazil,2,0
+4/30/03,Bulgaria,1,0
+4/30/03,Canada,148,20
+4/30/03,China,3460,159
+4/30/03,"Hong Kong SAR, China",1589,157
+4/30/03,"Macao SAR, China",1,0
+4/30/03,"Taiwan, China",78,1
+4/30/03,France,5,0
+4/30/03,Germany,7,0
+4/30/03,Indonesia,2,0
+4/30/03,Italy,9,0
+4/30/03,Japan,2,0
+4/30/03,Kuwait,1,0
+4/30/03,Malaysia,6,2
+4/30/03,Mongolia,6,0
+4/30/03,Philippines,4,2
+4/30/03,Republic of Ireland,1,0
+4/30/03,Republic of Korea,1,0
+4/30/03,Romania,1,0
+4/30/03,Singapore,201,24
+4/30/03,South Africa,1,0
+4/30/03,Spain,1,0
+4/30/03,Sweden,3,0
+4/30/03,Switzerland,1,0
+4/30/03,Thailand,7,2
+4/30/03,United Kingdom,6,0
+4/30/03,United States,52,0
+4/30/03,Viet Nam,63,5
+5/1/03,Brazil,2,0
+5/1/03,Bulgaria,1,0
+5/1/03,Canada,147,20
+5/1/03,China,3638,170
+5/1/03,"Hong Kong SAR, China",1600,162
+5/1/03,"Macao SAR, China",1,0
+5/1/03,"Taiwan, China",89,3
+5/1/03,France,5,0
+5/1/03,Germany,7,0
+5/1/03,Indonesia,2,0
+5/1/03,Italy,9,0
+5/1/03,Japan,2,0
+5/1/03,Kuwait,1,0
+5/1/03,Malaysia,6,2
+5/1/03,Mongolia,6,0
+5/1/03,Philippines,4,2
+5/1/03,Poland,1,0
+5/1/03,Republic of Ireland,1,0
+5/1/03,Republic of Korea,1,0
+5/1/03,Romania,1,0
+5/1/03,Singapore,201,25
+5/1/03,South Africa,1,0
+5/1/03,Spain,1,0
+5/1/03,Sweden,3,0
+5/1/03,Switzerland,1,0
+5/1/03,Thailand,7,2
+5/1/03,United Kingdom,6,0
+5/1/03,United States,54,0
+5/1/03,Viet Nam,63,5
+5/2/03,Brazil,2,0
+5/2/03,Bulgaria,1,0
+5/2/03,Canada,149,22
+5/2/03,China,3799,181
+5/2/03,"Hong Kong SAR, China",1611,170
+5/2/03,"Macao SAR, China",1,0
+5/2/03,"Taiwan, China",100,8
+5/2/03,France,5,0
+5/2/03,Germany,7,0
+5/2/03,Indonesia,2,0
+5/2/03,Italy,9,0
+5/2/03,Kuwait,1,0
+5/2/03,Malaysia,6,2
+5/2/03,Mongolia,8,0
+5/2/03,New Zealand,1,0
+5/2/03,Philippines,3,2
+5/2/03,Poland,1,0
+5/2/03,Republic of Ireland,1,0
+5/2/03,Republic of Korea,1,0
+5/2/03,Romania,1,0
+5/2/03,Singapore,203,25
+5/2/03,South Africa,1,0
+5/2/03,Spain,1,0
+5/2/03,Sweden,3,0
+5/2/03,Switzerland,1,0
+5/2/03,Thailand,7,2
+5/2/03,United Kingdom,6,0
+5/2/03,United States,56,0
+5/2/03,Viet Nam,63,5
+5/3/03,Brazil,2,0
+5/3/03,Bulgaria,1,0
+5/3/03,Canada,149,22
+5/3/03,China,3971,190
+5/3/03,"Hong Kong SAR, China",1621,179
+5/3/03,"Macao SAR, China",1,0
+5/3/03,"Taiwan, China",100,8
+5/3/03,France,5,0
+5/3/03,Germany,7,0
+5/3/03,Indonesia,2,0
+5/3/03,Italy,9,0
+5/3/03,Kuwait,1,0
+5/3/03,Malaysia,6,2
+5/3/03,Mongolia,8,0
+5/3/03,New Zealand,1,0
+5/3/03,Philippines,3,2
+5/3/03,Poland,1,0
+5/3/03,Republic of Ireland,1,0
+5/3/03,Republic of Korea,1,0
+5/3/03,Romania,1,0
+5/3/03,Singapore,203,25
+5/3/03,South Africa,1,0
+5/3/03,Spain,1,0
+5/3/03,Sweden,3,0
+5/3/03,Switzerland,1,0
+5/3/03,Thailand,7,2
+5/3/03,United Kingdom,6,0
+5/3/03,United States,54,0
+5/3/03,Viet Nam,63,5
+5/5/03,Brazil,2,0
+5/5/03,Bulgaria,1,0
+5/5/03,Canada,148,22
+5/5/03,China,4280,206
+5/5/03,"Hong Kong SAR, China",1637,187
+5/5/03,"Macao SAR, China",1,0
+5/5/03,"Taiwan, China",116,8
+5/5/03,France,5,0
+5/5/03,Germany,7,0
+5/5/03,Indonesia,2,0
+5/5/03,Italy,9,0
+5/5/03,Kuwait,1,0
+5/5/03,Malaysia,7,2
+5/5/03,Mongolia,8,0
+5/5/03,New Zealand,1,0
+5/5/03,Philippines,3,2
+5/5/03,Poland,1,0
+5/5/03,Republic of Ireland,1,0
+5/5/03,Republic of Korea,1,0
+5/5/03,Romania,1,0
+5/5/03,Singapore,204,26
+5/5/03,South Africa,1,1
+5/5/03,Spain,1,0
+5/5/03,Sweden,3,0
+5/5/03,Switzerland,1,0
+5/5/03,Thailand,7,2
+5/5/03,United Kingdom,6,0
+5/5/03,United States,61,0
+5/5/03,Viet Nam,63,5
+5/6/03,Brazil,2,0
+5/6/03,Bulgaria,1,0
+5/6/03,Canada,148,22
+5/6/03,China,4409,214
+5/6/03,"Hong Kong SAR, China",1646,193
+5/6/03,"Macao SAR, China",1,0
+5/6/03,"Taiwan, China",116,10
+5/6/03,Colombia,1,0
+5/6/03,France,5,0
+5/6/03,Germany,7,0
+5/6/03,India,1,0
+5/6/03,Indonesia,2,0
+5/6/03,Italy,9,0
+5/6/03,Kuwait,1,0
+5/6/03,Malaysia,7,2
+5/6/03,Mongolia,8,0
+5/6/03,New Zealand,1,0
+5/6/03,Philippines,3,2
+5/6/03,Poland,1,0
+5/6/03,Republic of Ireland,1,0
+5/6/03,Republic of Korea,1,0
+5/6/03,Romania,1,0
+5/6/03,Singapore,204,27
+5/6/03,South Africa,1,1
+5/6/03,Spain,1,0
+5/6/03,Sweden,3,0
+5/6/03,Switzerland,1,0
+5/6/03,Thailand,7,2
+5/6/03,United Kingdom,6,0
+5/6/03,United States,65,0
+5/6/03,Viet Nam,63,5
+5/7/03,Brazil,2,0
+5/7/03,Bulgaria,1,0
+5/7/03,Canada,146,22
+5/7/03,China,4560,219
+5/7/03,"Hong Kong SAR, China",1654,204
+5/7/03,"Macao SAR, China",1,0
+5/7/03,"Taiwan, China",125,11
+5/7/03,Colombia,1,0
+5/7/03,France,6,0
+5/7/03,Germany,8,0
+5/7/03,India,1,0
+5/7/03,Indonesia,2,0
+5/7/03,Italy,9,0
+5/7/03,Kuwait,1,0
+5/7/03,Malaysia,7,2
+5/7/03,Mongolia,9,0
+5/7/03,New Zealand,1,0
+5/7/03,Philippines,10,2
+5/7/03,Poland,1,0
+5/7/03,Republic of Ireland,1,0
+5/7/03,Republic of Korea,1,0
+5/7/03,Romania,1,0
+5/7/03,Singapore,204,27
+5/7/03,South Africa,1,1
+5/7/03,Spain,1,0
+5/7/03,Sweden,3,0
+5/7/03,Switzerland,1,0
+5/7/03,Thailand,7,2
+5/7/03,United Kingdom,6,0
+5/7/03,United States,65,0
+5/7/03,Viet Nam,63,5
+5/8/03,Brazil,2,0
+5/8/03,Bulgaria,1,0
+5/8/03,Canada,146,22
+5/8/03,China,4698,224
+5/8/03,"Hong Kong SAR, China",1661,208
+5/8/03,"Macao SAR, China",1,0
+5/8/03,"Taiwan, China",131,13
+5/8/03,Colombia,1,0
+5/8/03,Finland,1,0
+5/8/03,France,6,0
+5/8/03,Germany,8,0
+5/8/03,India,1,0
+5/8/03,Indonesia,2,0
+5/8/03,Italy,9,0
+5/8/03,Kuwait,1,0
+5/8/03,Malaysia,7,2
+5/8/03,Mongolia,9,0
+5/8/03,New Zealand,1,0
+5/8/03,Philippines,10,2
+5/8/03,Poland,1,0
+5/8/03,Republic of Ireland,1,0
+5/8/03,Republic of Korea,1,0
+5/8/03,Romania,1,0
+5/8/03,Singapore,204,27
+5/8/03,South Africa,1,1
+5/8/03,Spain,1,0
+5/8/03,Sweden,3,0
+5/8/03,Switzerland,1,0
+5/8/03,Thailand,7,2
+5/8/03,United Kingdom,6,0
+5/8/03,United States,63,0
+5/8/03,Viet Nam,63,5
+5/9/03,Brazil,2,0
+5/9/03,Bulgaria,1,0
+5/9/03,Canada,145,22
+5/9/03,China,4805,230
+5/9/03,"Hong Kong SAR, China",1667,210
+5/9/03,"Macao SAR, China",1,0
+5/9/03,"Taiwan, China",149,13
+5/9/03,Colombia,1,0
+5/9/03,Finland,1,0
+5/9/03,France,6,0
+5/9/03,Germany,9,0
+5/9/03,India,1,0
+5/9/03,Indonesia,2,0
+5/9/03,Italy,9,0
+5/9/03,Kuwait,1,0
+5/9/03,Malaysia,6,2
+5/9/03,Mongolia,9,0
+5/9/03,New Zealand,1,0
+5/9/03,Philippines,10,2
+5/9/03,Poland,1,0
+5/9/03,Republic of Ireland,1,0
+5/9/03,Republic of Korea,1,0
+5/9/03,Romania,1,0
+5/9/03,Singapore,204,27
+5/9/03,South Africa,1,1
+5/9/03,Spain,1,0
+5/9/03,Sweden,3,0
+5/9/03,Switzerland,1,0
+5/9/03,Thailand,7,2
+5/9/03,United Kingdom,6,0
+5/9/03,United States,63,0
+5/9/03,Viet Nam,63,5
+5/10/03,Brazil,2,0
+5/10/03,Bulgaria,1,0
+5/10/03,Canada,145,22
+5/10/03,China,4884,235
+5/10/03,"Hong Kong SAR, China",1674,212
+5/10/03,"Macao SAR, China",1,0
+5/10/03,"Taiwan, China",172,18
+5/10/03,Colombia,1,0
+5/10/03,Finland,1,0
+5/10/03,France,7,0
+5/10/03,Germany,9,0
+5/10/03,India,1,0
+5/10/03,Indonesia,2,0
+5/10/03,Italy,9,0
+5/10/03,Kuwait,1,0
+5/10/03,Malaysia,7,2
+5/10/03,Mongolia,9,0
+5/10/03,New Zealand,1,0
+5/10/03,Philippines,10,2
+5/10/03,Poland,1,0
+5/10/03,Republic of Ireland,1,0
+5/10/03,Republic of Korea,1,0
+5/10/03,Romania,1,0
+5/10/03,Singapore,205,27
+5/10/03,South Africa,1,1
+5/10/03,Spain,1,0
+5/10/03,Sweden,3,0
+5/10/03,Switzerland,1,0
+5/10/03,Thailand,7,2
+5/10/03,United Kingdom,6,0
+5/10/03,United States,64,0
+5/10/03,Viet Nam,63,5
+5/12/03,Brazil,2,0
+5/12/03,Bulgaria,1,0
+5/12/03,Canada,143,22
+5/12/03,China,5013,252
+5/12/03,"Hong Kong SAR, China",1683,218
+5/12/03,"Macao SAR, China",1,0
+5/12/03,"Taiwan, China",184,20
+5/12/03,Colombia,1,0
+5/12/03,Finland,1,0
+5/12/03,France,7,0
+5/12/03,Germany,9,0
+5/12/03,India,1,0
+5/12/03,Indonesia,2,0
+5/12/03,Italy,9,0
+5/12/03,Kuwait,1,0
+5/12/03,Malaysia,7,2
+5/12/03,Mongolia,9,0
+5/12/03,New Zealand,1,0
+5/12/03,Philippines,10,2
+5/12/03,Poland,1,0
+5/12/03,Republic of Ireland,1,0
+5/12/03,Republic of Korea,2,0
+5/12/03,Romania,1,0
+5/12/03,Singapore,205,28
+5/12/03,South Africa,1,1
+5/12/03,Spain,1,0
+5/12/03,Sweden,3,0
+5/12/03,Switzerland,1,0
+5/12/03,Thailand,7,2
+5/12/03,United Kingdom,6,0
+5/12/03,United States,64,0
+5/12/03,Viet Nam,63,5
+5/13/03,Brazil,2,0
+5/13/03,Bulgaria,1,0
+5/13/03,Canada,143,22
+5/13/03,China,5086,262
+5/13/03,"Hong Kong SAR, China",1689,225
+5/13/03,"Macao SAR, China",1,0
+5/13/03,"Taiwan, China",207,24
+5/13/03,Colombia,1,0
+5/13/03,Finland,1,0
+5/13/03,France,7,0
+5/13/03,Germany,9,0
+5/13/03,India,3,0
+5/13/03,Indonesia,2,0
+5/13/03,Italy,9,0
+5/13/03,Kuwait,1,0
+5/13/03,Malaysia,7,2
+5/13/03,Mongolia,9,0
+5/13/03,New Zealand,1,0
+5/13/03,Philippines,10,2
+5/13/03,Republic of Ireland,1,0
+5/13/03,Republic of Korea,2,0
+5/13/03,Romania,1,0
+5/13/03,Singapore,205,28
+5/13/03,South Africa,1,1
+5/13/03,Spain,1,0
+5/13/03,Sweden,3,0
+5/13/03,Switzerland,1,0
+5/13/03,Thailand,7,2
+5/13/03,United Kingdom,4,0
+5/13/03,United States,64,0
+5/13/03,Viet Nam,63,5
+5/14/03,Brazil,2,0
+5/14/03,Bulgaria,1,0
+5/14/03,Canada,143,23
+5/14/03,China,5124,267
+5/14/03,"Hong Kong SAR, China",1698,227
+5/14/03,"Macao SAR, China",1,0
+5/14/03,"Taiwan, China",238,30
+5/14/03,Colombia,1,0
+5/14/03,Finland,1,0
+5/14/03,France,7,0
+5/14/03,Germany,9,0
+5/14/03,India,3,0
+5/14/03,Indonesia,2,0
+5/14/03,Italy,9,0
+5/14/03,Kuwait,1,0
+5/14/03,Malaysia,7,2
+5/14/03,Mongolia,9,0
+5/14/03,New Zealand,1,0
+5/14/03,Philippines,10,2
+5/14/03,Republic of Ireland,1,0
+5/14/03,Republic of Korea,3,0
+5/14/03,Romania,1,0
+5/14/03,Singapore,205,28
+5/14/03,South Africa,1,1
+5/14/03,Spain,1,0
+5/14/03,Sweden,3,0
+5/14/03,Switzerland,1,0
+5/14/03,Thailand,8,2
+5/14/03,United Kingdom,4,0
+5/14/03,United States,64,0
+5/14/03,Viet Nam,63,5
+5/15/03,Brazil,2,0
+5/15/03,Bulgaria,1,0
+5/15/03,Canada,142,23
+5/15/03,China,5163,271
+5/15/03,"Hong Kong SAR, China",1703,234
+5/15/03,"Macao SAR, China",1,0
+5/15/03,"Taiwan, China",264,30
+5/15/03,Colombia,1,0
+5/15/03,Finland,1,0
+5/15/03,France,7,0
+5/15/03,Germany,9,0
+5/15/03,India,3,0
+5/15/03,Indonesia,2,0
+5/15/03,Italy,9,0
+5/15/03,Kuwait,1,0
+5/15/03,Malaysia,7,2
+5/15/03,Mongolia,9,0
+5/15/03,New Zealand,1,0
+5/15/03,Philippines,12,2
+5/15/03,Republic of Ireland,1,0
+5/15/03,Republic of Korea,3,0
+5/15/03,Romania,1,0
+5/15/03,Singapore,205,28
+5/15/03,South Africa,1,1
+5/15/03,Spain,1,0
+5/15/03,Sweden,3,0
+5/15/03,Switzerland,1,0
+5/15/03,Thailand,8,2
+5/15/03,United Kingdom,4,0
+5/15/03,United States,64,0
+5/15/03,Viet Nam,63,5
+5/16/03,Brazil,2,0
+5/16/03,Bulgaria,1,0
+5/16/03,Canada,140,23
+5/16/03,China,5191,275
+5/16/03,"Hong Kong SAR, China",1706,238
+5/16/03,"Macao SAR, China",1,0
+5/16/03,"Taiwan, China",274,35
+5/16/03,Colombia,1,0
+5/16/03,Finland,1,0
+5/16/03,France,7,0
+5/16/03,Germany,9,0
+5/16/03,India,3,0
+5/16/03,Indonesia,2,0
+5/16/03,Italy,9,0
+5/16/03,Kuwait,1,0
+5/16/03,Malaysia,7,2
+5/16/03,Mongolia,9,0
+5/16/03,New Zealand,1,0
+5/16/03,Philippines,12,2
+5/16/03,Republic of Ireland,1,0
+5/16/03,Republic of Korea,3,0
+5/16/03,Romania,1,0
+5/16/03,Singapore,205,28
+5/16/03,South Africa,1,1
+5/16/03,Spain,1,0
+5/16/03,Sweden,3,0
+5/16/03,Switzerland,1,0
+5/16/03,Thailand,8,2
+5/16/03,United Kingdom,4,0
+5/16/03,United States,65,0
+5/16/03,Viet Nam,63,5
+5/17/03,Brazil,2,0
+5/17/03,Canada,140,23
+5/17/03,China,5209,282
+5/17/03,"Hong Kong SAR, China",1710,243
+5/17/03,"Macao SAR, China",1,0
+5/17/03,"Taiwan, China",274,35
+5/17/03,Colombia,1,0
+5/17/03,Finland,1,0
+5/17/03,France,7,0
+5/17/03,Germany,9,0
+5/17/03,India,3,0
+5/17/03,Indonesia,2,0
+5/17/03,Italy,9,0
+5/17/03,Kuwait,1,0
+5/17/03,Malaysia,7,2
+5/17/03,Mongolia,9,0
+5/17/03,New Zealand,1,0
+5/17/03,Philippines,12,2
+5/17/03,Republic of Ireland,1,0
+5/17/03,Republic of Korea,3,0
+5/17/03,Romania,1,0
+5/17/03,Singapore,205,28
+5/17/03,South Africa,1,1
+5/17/03,Spain,1,0
+5/17/03,Sweden,3,0
+5/17/03,Switzerland,1,0
+5/17/03,Thailand,8,2
+5/17/03,United Kingdom,4,0
+5/17/03,United States,66,0
+5/17/03,Viet Nam,63,5
+5/19/03,Brazil,2,0
+5/19/03,Canada,140,23
+5/19/03,China,5236,289
+5/19/03,"Hong Kong SAR, China",1714,251
+5/19/03,"Macao SAR, China",1,0
+5/19/03,"Taiwan, China",344,40
+5/19/03,Colombia,1,0
+5/19/03,Finland,1,0
+5/19/03,France,7,0
+5/19/03,Germany,9,0
+5/19/03,India,3,0
+5/19/03,Indonesia,2,0
+5/19/03,Italy,9,0
+5/19/03,Kuwait,1,0
+5/19/03,Malaysia,7,2
+5/19/03,Mongolia,9,0
+5/19/03,New Zealand,1,0
+5/19/03,Philippines,12,2
+5/19/03,Republic of Ireland,1,0
+5/19/03,Republic of Korea,3,0
+5/19/03,Romania,1,0
+5/19/03,Singapore,206,28
+5/19/03,South Africa,1,1
+5/19/03,Spain,1,0
+5/19/03,Sweden,3,0
+5/19/03,Switzerland,1,0
+5/19/03,Thailand,8,2
+5/19/03,United Kingdom,4,0
+5/19/03,United States,67,0
+5/19/03,Viet Nam,63,5
+5/20/03,Brazil,2,0
+5/20/03,Canada,140,23
+5/20/03,China,5248,294
+5/20/03,"Hong Kong SAR, China",1718,253
+5/20/03,"Macao SAR, China",1,0
+5/20/03,"Taiwan, China",383,52
+5/20/03,Colombia,1,0
+5/20/03,Finland,1,0
+5/20/03,France,7,0
+5/20/03,Germany,9,0
+5/20/03,India,3,0
+5/20/03,Indonesia,2,0
+5/20/03,Italy,9,0
+5/20/03,Kuwait,1,0
+5/20/03,Malaysia,7,2
+5/20/03,Mongolia,9,0
+5/20/03,New Zealand,1,0
+5/20/03,Philippines,12,2
+5/20/03,Republic of Ireland,1,0
+5/20/03,Republic of Korea,3,0
+5/20/03,Romania,1,0
+5/20/03,Singapore,206,28
+5/20/03,South Africa,1,1
+5/20/03,Spain,1,0
+5/20/03,Sweden,3,0
+5/20/03,Switzerland,1,0
+5/20/03,Thailand,8,2
+5/20/03,United Kingdom,4,0
+5/20/03,United States,67,0
+5/20/03,Viet Nam,63,5
+5/21/03,Brazil,2,0
+5/21/03,Canada,140,23
+5/21/03,China,5249,296
+5/21/03,"Hong Kong SAR, China",1719,255
+5/21/03,"Macao SAR, China",1,0
+5/21/03,"Taiwan, China",418,52
+5/21/03,Colombia,1,0
+5/21/03,Finland,1,0
+5/21/03,France,7,0
+5/21/03,Germany,9,0
+5/21/03,India,3,0
+5/21/03,Indonesia,2,0
+5/21/03,Italy,9,0
+5/21/03,Kuwait,1,0
+5/21/03,Malaysia,8,2
+5/21/03,Mongolia,9,0
+5/21/03,New Zealand,1,0
+5/21/03,Philippines,12,2
+5/21/03,Republic of Ireland,1,0
+5/21/03,Republic of Korea,3,0
+5/21/03,Romania,1,0
+5/21/03,Singapore,206,28
+5/21/03,South Africa,1,1
+5/21/03,Spain,1,0
+5/21/03,Sweden,3,0
+5/21/03,Switzerland,1,0
+5/21/03,Thailand,8,2
+5/21/03,United Kingdom,4,0
+5/21/03,United States,66,0
+5/21/03,Viet Nam,63,5
+5/22/03,Australia,6,0
+5/22/03,Brazil,2,0
+5/22/03,Canada,140,23
+5/22/03,China,5271,300
+5/22/03,"Hong Kong SAR, China",1722,258
+5/22/03,"Macao SAR, China",2,0
+5/22/03,"Taiwan, China",483,60
+5/22/03,Colombia,1,0
+5/22/03,Finland,1,0
+5/22/03,France,7,0
+5/22/03,Germany,9,0
+5/22/03,India,3,0
+5/22/03,Indonesia,2,0
+5/22/03,Italy,9,0
+5/22/03,Kuwait,1,0
+5/22/03,Malaysia,8,2
+5/22/03,Mongolia,9,0
+5/22/03,New Zealand,1,0
+5/22/03,Philippines,12,2
+5/22/03,Republic of Ireland,1,0
+5/22/03,Republic of Korea,3,0
+5/22/03,Romania,1,0
+5/22/03,Singapore,206,29
+5/22/03,South Africa,1,1
+5/22/03,Spain,1,0
+5/22/03,Sweden,3,0
+5/22/03,Switzerland,1,0
+5/22/03,Thailand,8,2
+5/22/03,United Kingdom,4,0
+5/22/03,United States,65,0
+5/22/03,Viet Nam,63,5
+5/23/03,Brazil,2,0
+5/23/03,Canada,140,23
+5/23/03,China,5285,303
+5/23/03,"Hong Kong SAR, China",1724,260
+5/23/03,"Macao SAR, China",2,0
+5/23/03,"Taiwan, China",538,60
+5/23/03,Colombia,1,0
+5/23/03,Finland,1,0
+5/23/03,France,7,0
+5/23/03,Germany,9,0
+5/23/03,India,3,0
+5/23/03,Indonesia,2,0
+5/23/03,Italy,9,0
+5/23/03,Kuwait,1,0
+5/23/03,Malaysia,8,2
+5/23/03,Mongolia,9,0
+5/23/03,New Zealand,1,0
+5/23/03,Philippines,12,2
+5/23/03,Republic of Ireland,1,0
+5/23/03,Republic of Korea,3,0
+5/23/03,Romania,1,0
+5/23/03,Singapore,206,31
+5/23/03,South Africa,1,1
+5/23/03,Spain,1,0
+5/23/03,Sweden,3,0
+5/23/03,Switzerland,1,0
+5/23/03,Thailand,8,2
+5/23/03,United Kingdom,4,0
+5/23/03,United States,65,0
+5/23/03,Viet Nam,63,5
+5/24/03,Brazil,2,0
+5/24/03,Canada,140,23
+5/24/03,China,5309,308
+5/24/03,"Hong Kong SAR, China",1724,262
+5/24/03,"Macao SAR, China",2,0
+5/24/03,"Taiwan, China",538,60
+5/24/03,Colombia,1,0
+5/24/03,Finland,1,0
+5/24/03,France,7,0
+5/24/03,Germany,9,0
+5/24/03,India,3,0
+5/24/03,Indonesia,2,0
+5/24/03,Italy,9,0
+5/24/03,Kuwait,1,0
+5/24/03,Malaysia,8,2
+5/24/03,Mongolia,9,0
+5/24/03,New Zealand,1,0
+5/24/03,Philippines,12,2
+5/24/03,Republic of Ireland,1,0
+5/24/03,Republic of Korea,3,0
+5/24/03,Romania,1,0
+5/24/03,Singapore,206,31
+5/24/03,South Africa,1,1
+5/24/03,Spain,1,0
+5/24/03,Sweden,3,0
+5/24/03,Switzerland,1,0
+5/24/03,Thailand,8,2
+5/24/03,United Kingdom,4,0
+5/24/03,United States,65,0
+5/24/03,Viet Nam,63,5
+5/26/03,Brazil,2,0
+5/26/03,Canada,148,26
+5/26/03,China,5316,317
+5/26/03,"Hong Kong SAR, China",1726,267
+5/26/03,"Macao SAR, China",2,0
+5/26/03,"Taiwan, China",585,72
+5/26/03,Colombia,1,0
+5/26/03,Finland,1,0
+5/26/03,France,7,0
+5/26/03,Germany,9,0
+5/26/03,India,3,0
+5/26/03,Indonesia,2,0
+5/26/03,Italy,9,0
+5/26/03,Kuwait,1,0
+5/26/03,Malaysia,5,2
+5/26/03,Mongolia,9,0
+5/26/03,New Zealand,1,0
+5/26/03,Philippines,12,2
+5/26/03,Republic of Ireland,1,0
+5/26/03,Republic of Korea,3,0
+5/26/03,Romania,1,0
+5/26/03,Singapore,206,31
+5/26/03,South Africa,1,1
+5/26/03,Spain,1,0
+5/26/03,Sweden,3,0
+5/26/03,Switzerland,1,0
+5/26/03,Thailand,8,2
+5/26/03,United Kingdom,4,0
+5/26/03,United States,65,0
+5/26/03,Viet Nam,63,5
+5/27/03,Brazil,2,0
+5/27/03,Canada,148,26
+5/27/03,China,5322,321
+5/27/03,"Hong Kong SAR, China",1728,269
+5/27/03,"Macao SAR, China",2,0
+5/27/03,"Taiwan, China",596,76
+5/27/03,Colombia,1,0
+5/27/03,Finland,1,0
+5/27/03,France,7,0
+5/27/03,Germany,9,0
+5/27/03,India,3,0
+5/27/03,Indonesia,2,0
+5/27/03,Italy,9,0
+5/27/03,Kuwait,1,0
+5/27/03,Malaysia,5,2
+5/27/03,Mongolia,9,0
+5/27/03,New Zealand,1,0
+5/27/03,Philippines,12,2
+5/27/03,Republic of Ireland,1,0
+5/27/03,Republic of Korea,3,0
+5/27/03,Romania,1,0
+5/27/03,Singapore,206,31
+5/27/03,South Africa,1,1
+5/27/03,Spain,1,0
+5/27/03,Sweden,3,0
+5/27/03,Switzerland,1,0
+5/27/03,Thailand,8,2
+5/27/03,United Kingdom,4,0
+5/27/03,United States,65,0
+5/27/03,Viet Nam,63,5
+5/28/03,Australia,6,0
+5/28/03,Brazil,2,0
+5/28/03,Canada,149,26
+5/28/03,China,5323,325
+5/28/03,"Hong Kong SAR, China",1730,270
+5/28/03,"Macao SAR, China",2,0
+5/28/03,"Taiwan, China",610,81
+5/28/03,Colombia,1,0
+5/28/03,Finland,1,0
+5/28/03,France,7,0
+5/28/03,Germany,9,0
+5/28/03,India,3,0
+5/28/03,Indonesia,2,0
+5/28/03,Italy,9,0
+5/28/03,Kuwait,1,0
+5/28/03,Malaysia,5,2
+5/28/03,Mongolia,9,0
+5/28/03,New Zealand,1,0
+5/28/03,Philippines,12,2
+5/28/03,Republic of Ireland,1,0
+5/28/03,Republic of Korea,3,0
+5/28/03,Romania,1,0
+5/28/03,Singapore,206,31
+5/28/03,South Africa,1,1
+5/28/03,Spain,1,0
+5/28/03,Sweden,3,0
+5/28/03,Switzerland,1,0
+5/28/03,Thailand,8,2
+5/28/03,United Kingdom,4,0
+5/28/03,United States,66,0
+5/28/03,Viet Nam,63,5
+5/29/03,Australia,6,0
+5/29/03,Brazil,2,0
+5/29/03,Canada,151,26
+5/29/03,China,5325,327
+5/29/03,"Hong Kong SAR, China",1732,273
+5/29/03,"Macao SAR, China",1,0
+5/29/03,"Taiwan, China",660,81
+5/29/03,Colombia,1,0
+5/29/03,Finland,1,0
+5/29/03,France,7,0
+5/29/03,Germany,9,0
+5/29/03,India,3,0
+5/29/03,Indonesia,2,0
+5/29/03,Italy,9,0
+5/29/03,Kuwait,1,0
+5/29/03,Malaysia,5,2
+5/29/03,Mongolia,9,0
+5/29/03,New Zealand,1,0
+5/29/03,Philippines,12,2
+5/29/03,Republic of Ireland,1,0
+5/29/03,Republic of Korea,3,0
+5/29/03,Romania,1,0
+5/29/03,Singapore,206,31
+5/29/03,South Africa,1,1
+5/29/03,Spain,1,0
+5/29/03,Sweden,3,0
+5/29/03,Switzerland,1,0
+5/29/03,Thailand,8,2
+5/29/03,United Kingdom,4,0
+5/29/03,United States,66,0
+5/29/03,Viet Nam,63,5
+5/30/03,Brazil,2,0
+5/30/03,Canada,159,28
+5/30/03,China,5328,328
+5/30/03,"Hong Kong SAR, China",1736,274
+5/30/03,"Macao SAR, China",1,0
+5/30/03,"Taiwan, China",667,81
+5/30/03,Colombia,1,0
+5/30/03,Finland,1,0
+5/30/03,France,7,0
+5/30/03,Germany,9,0
+5/30/03,India,3,0
+5/30/03,Indonesia,2,0
+5/30/03,Italy,9,0
+5/30/03,Kuwait,1,0
+5/30/03,Malaysia,5,2
+5/30/03,Mongolia,9,0
+5/30/03,New Zealand,1,0
+5/30/03,Philippines,12,2
+5/30/03,Republic of Ireland,1,0
+5/30/03,Republic of Korea,3,0
+5/30/03,Romania,1,0
+5/30/03,Singapore,206,31
+5/30/03,South Africa,1,1
+5/30/03,Spain,1,0
+5/30/03,Sweden,3,0
+5/30/03,Switzerland,1,0
+5/30/03,Thailand,8,2
+5/30/03,United Kingdom,4,0
+5/30/03,United States,66,0
+5/30/03,Viet Nam,63,5
+5/31/03,Brazil,2,0
+5/31/03,Canada,188,30
+5/31/03,China,5328,332
+5/31/03,"Hong Kong SAR, China",1739,278
+5/31/03,"Macao SAR, China",1,0
+5/31/03,"Taiwan, China",676,81
+5/31/03,Colombia,1,0
+5/31/03,Finland,1,0
+5/31/03,France,7,0
+5/31/03,Germany,10,0
+5/31/03,India,3,0
+5/31/03,Indonesia,2,0
+5/31/03,Italy,9,0
+5/31/03,Kuwait,1,0
+5/31/03,Malaysia,5,2
+5/31/03,Mongolia,9,0
+5/31/03,New Zealand,1,0
+5/31/03,Philippines,12,2
+5/31/03,Republic of Ireland,1,0
+5/31/03,Republic of Korea,3,0
+5/31/03,Romania,1,0
+5/31/03,Russian Federation,1,0
+5/31/03,Singapore,206,31
+5/31/03,South Africa,1,1
+5/31/03,Spain,1,0
+5/31/03,Sweden,3,0
+5/31/03,Switzerland,1,0
+5/31/03,Thailand,8,2
+5/31/03,United Kingdom,4,0
+5/31/03,United States,66,0
+5/31/03,Viet Nam,63,5
+6/2/03,Brazil,2,0
+6/2/03,Canada,198,30
+6/2/03,China,5328,334
+6/2/03,"Hong Kong SAR, China",1746,282
+6/2/03,"Macao SAR, China",1,0
+6/2/03,"Taiwan, China",684,81
+6/2/03,Colombia,1,0
+6/2/03,Finland,1,0
+6/2/03,France,7,0
+6/2/03,Germany,10,0
+6/2/03,India,3,0
+6/2/03,Indonesia,2,0
+6/2/03,Italy,9,0
+6/2/03,Kuwait,1,0
+6/2/03,Malaysia,5,2
+6/2/03,Mongolia,9,0
+6/2/03,New Zealand,1,0
+6/2/03,Philippines,12,2
+6/2/03,Republic of Ireland,1,0
+6/2/03,Republic of Korea,3,0
+6/2/03,Romania,1,0
+6/2/03,Russian Federation,1,0
+6/2/03,Singapore,206,31
+6/2/03,South Africa,1,1
+6/2/03,Spain,1,0
+6/2/03,Sweden,3,0
+6/2/03,Switzerland,1,0
+6/2/03,Thailand,8,2
+6/2/03,United Kingdom,4,0
+6/2/03,United States,66,0
+6/2/03,Viet Nam,63,5
+6/3/03,Brazil,2,0
+6/3/03,Canada,213,31
+6/3/03,China,5329,334
+6/3/03,"Hong Kong SAR, China",1747,283
+6/3/03,"Macao SAR, China",1,0
+6/3/03,"Taiwan, China",679,81
+6/3/03,Colombia,1,0
+6/3/03,Finland,1,0
+6/3/03,France,7,0
+6/3/03,Germany,10,0
+6/3/03,India,3,0
+6/3/03,Indonesia,2,0
+6/3/03,Italy,9,0
+6/3/03,Kuwait,1,0
+6/3/03,Malaysia,5,2
+6/3/03,Mongolia,9,0
+6/3/03,New Zealand,1,0
+6/3/03,Philippines,12,2
+6/3/03,Republic of Ireland,1,0
+6/3/03,Republic of Korea,3,0
+6/3/03,Romania,1,0
+6/3/03,Russian Federation,1,0
+6/3/03,Singapore,206,31
+6/3/03,South Africa,1,1
+6/3/03,Spain,1,0
+6/3/03,Sweden,3,0
+6/3/03,Switzerland,1,0
+6/3/03,Thailand,8,2
+6/3/03,United Kingdom,4,0
+6/3/03,United States,68,0
+6/3/03,Viet Nam,63,5
+6/4/03,Brazil,2,0
+6/4/03,Canada,216,31
+6/4/03,China,5329,334
+6/4/03,"Hong Kong SAR, China",1748,283
+6/4/03,"Macao SAR, China",1,0
+6/4/03,"Taiwan, China",678,81
+6/4/03,Colombia,1,0
+6/4/03,Finland,1,0
+6/4/03,France,7,0
+6/4/03,Germany,10,0
+6/4/03,India,3,0
+6/4/03,Indonesia,2,0
+6/4/03,Italy,9,0
+6/4/03,Kuwait,1,0
+6/4/03,Malaysia,5,2
+6/4/03,Mongolia,9,0
+6/4/03,New Zealand,1,0
+6/4/03,Philippines,12,2
+6/4/03,Republic of Ireland,1,0
+6/4/03,Republic of Korea,3,0
+6/4/03,Romania,1,0
+6/4/03,Russian Federation,1,0
+6/4/03,Singapore,206,31
+6/4/03,South Africa,1,1
+6/4/03,Spain,1,0
+6/4/03,Sweden,3,0
+6/4/03,Switzerland,1,0
+6/4/03,Thailand,8,2
+6/4/03,United Kingdom,4,0
+6/4/03,United States,69,0
+6/4/03,Viet Nam,63,5
+6/5/03,Brazil,2,0
+6/5/03,Canada,218,31
+6/5/03,China,5329,336
+6/5/03,"Hong Kong SAR, China",1748,284
+6/5/03,"Macao SAR, China",1,0
+6/5/03,"Taiwan, China",677,81
+6/5/03,Colombia,1,0
+6/5/03,Finland,1,0
+6/5/03,France,7,0
+6/5/03,Germany,10,0
+6/5/03,India,3,0
+6/5/03,Indonesia,2,0
+6/5/03,Italy,9,0
+6/5/03,Kuwait,1,0
+6/5/03,Malaysia,5,2
+6/5/03,Mongolia,9,0
+6/5/03,New Zealand,1,0
+6/5/03,Philippines,12,2
+6/5/03,Republic of Ireland,1,0
+6/5/03,Republic of Korea,3,0
+6/5/03,Romania,1,0
+6/5/03,Russian Federation,1,0
+6/5/03,Singapore,206,31
+6/5/03,South Africa,1,1
+6/5/03,Spain,1,0
+6/5/03,Sweden,3,0
+6/5/03,Switzerland,1,0
+6/5/03,Thailand,8,2
+6/5/03,United Kingdom,4,0
+6/5/03,United States,69,0
+6/5/03,Viet Nam,63,5
+6/6/03,Brazil,2,0
+6/6/03,Canada,219,31
+6/6/03,China,5329,338
+6/6/03,"Hong Kong SAR, China",1750,286
+6/6/03,"Macao SAR, China",1,0
+6/6/03,"Taiwan, China",676,81
+6/6/03,Colombia,1,0
+6/6/03,Finland,1,0
+6/6/03,France,7,0
+6/6/03,Germany,10,0
+6/6/03,India,3,0
+6/6/03,Indonesia,2,0
+6/6/03,Italy,9,0
+6/6/03,Kuwait,1,0
+6/6/03,Malaysia,5,2
+6/6/03,Mongolia,9,0
+6/6/03,New Zealand,1,0
+6/6/03,Philippines,12,2
+6/6/03,Republic of Ireland,1,0
+6/6/03,Republic of Korea,3,0
+6/6/03,Romania,1,0
+6/6/03,Russian Federation,1,0
+6/6/03,Singapore,206,31
+6/6/03,South Africa,1,1
+6/6/03,Spain,1,0
+6/6/03,Sweden,3,0
+6/6/03,Switzerland,1,0
+6/6/03,Thailand,8,2
+6/6/03,United Kingdom,4,0
+6/6/03,United States,68,0
+6/6/03,Viet Nam,63,5
+6/9/03,Brazil,2,0
+6/9/03,Canada,229,32
+6/9/03,China,5328,340
+6/9/03,"Hong Kong SAR, China",1753,288
+6/9/03,"Macao SAR, China",1,0
+6/9/03,"Taiwan, China",680,81
+6/9/03,Colombia,1,0
+6/9/03,Finland,1,0
+6/9/03,France,7,0
+6/9/03,Germany,10,0
+6/9/03,India,3,0
+6/9/03,Indonesia,2,0
+6/9/03,Italy,9,0
+6/9/03,Kuwait,1,0
+6/9/03,Malaysia,5,2
+6/9/03,Mongolia,9,0
+6/9/03,New Zealand,1,0
+6/9/03,Philippines,12,2
+6/9/03,Republic of Ireland,1,0
+6/9/03,Republic of Korea,3,0
+6/9/03,Romania,1,0
+6/9/03,Russian Federation,1,0
+6/9/03,Singapore,206,31
+6/9/03,South Africa,1,1
+6/9/03,Spain,1,0
+6/9/03,Sweden,3,0
+6/9/03,Switzerland,1,0
+6/9/03,Thailand,9,2
+6/9/03,United Kingdom,4,0
+6/9/03,United States,68,0
+6/9/03,Viet Nam,63,5
+6/10/03,Brazil,3,0
+6/10/03,Canada,229,32
+6/10/03,China,5328,343
+6/10/03,"Hong Kong SAR, China",1754,290
+6/10/03,"Macao SAR, China",1,0
+6/10/03,"Taiwan, China",686,81
+6/10/03,Colombia,1,0
+6/10/03,Finland,1,0
+6/10/03,France,7,0
+6/10/03,Germany,10,0
+6/10/03,India,3,0
+6/10/03,Indonesia,2,0
+6/10/03,Italy,9,0
+6/10/03,Kuwait,1,0
+6/10/03,Malaysia,5,2
+6/10/03,Mongolia,9,0
+6/10/03,New Zealand,1,0
+6/10/03,Philippines,12,2
+6/10/03,Republic of Ireland,1,0
+6/10/03,Republic of Korea,3,0
+6/10/03,Romania,1,0
+6/10/03,Russian Federation,1,0
+6/10/03,Singapore,206,31
+6/10/03,South Africa,1,1
+6/10/03,Spain,1,0
+6/10/03,Sweden,3,0
+6/10/03,Switzerland,1,0
+6/10/03,Thailand,9,2
+6/10/03,United Kingdom,4,0
+6/10/03,United States,69,0
+6/10/03,Viet Nam,63,5
+6/11/03,Brazil,3,0
+6/11/03,Canada,230,32
+6/11/03,China,5329,343
+6/11/03,"Hong Kong SAR, China",1754,290
+6/11/03,"Macao SAR, China",1,0
+6/11/03,"Taiwan, China",687,81
+6/11/03,Colombia,1,0
+6/11/03,Finland,1,0
+6/11/03,France,7,0
+6/11/03,Germany,10,0
+6/11/03,India,3,0
+6/11/03,Indonesia,2,0
+6/11/03,Italy,9,0
+6/11/03,Kuwait,1,0
+6/11/03,Malaysia,5,2
+6/11/03,Mongolia,9,0
+6/11/03,New Zealand,1,0
+6/11/03,Philippines,12,2
+6/11/03,Republic of Ireland,1,0
+6/11/03,Republic of Korea,3,0
+6/11/03,Romania,1,0
+6/11/03,Russian Federation,1,0
+6/11/03,Singapore,206,31
+6/11/03,South Africa,1,1
+6/11/03,Spain,1,0
+6/11/03,Sweden,3,0
+6/11/03,Switzerland,1,0
+6/11/03,Thailand,9,2
+6/11/03,United Kingdom,4,0
+6/11/03,United States,71,0
+6/11/03,Viet Nam,63,5
+6/12/03,Brazil,3,0
+6/12/03,Canada,238,32
+6/12/03,China,5328,343
+6/12/03,"Hong Kong SAR, China",1755,291
+6/12/03,"Macao SAR, China",1,0
+6/12/03,"Taiwan, China",688,81
+6/12/03,Colombia,1,0
+6/12/03,Finland,1,0
+6/12/03,France,7,0
+6/12/03,Germany,10,0
+6/12/03,India,3,0
+6/12/03,Indonesia,2,0
+6/12/03,Italy,9,0
+6/12/03,Kuwait,1,0
+6/12/03,Malaysia,5,2
+6/12/03,Mongolia,9,0
+6/12/03,New Zealand,1,0
+6/12/03,Philippines,14,2
+6/12/03,Republic of Ireland,1,0
+6/12/03,Republic of Korea,3,0
+6/12/03,Romania,1,0
+6/12/03,Russian Federation,1,0
+6/12/03,Singapore,206,31
+6/12/03,South Africa,1,1
+6/12/03,Spain,1,0
+6/12/03,Sweden,3,0
+6/12/03,Switzerland,1,0
+6/12/03,Thailand,9,2
+6/12/03,United Kingdom,4,0
+6/12/03,United States,70,0
+6/12/03,Viet Nam,63,5
+6/13/03,Brazil,3,0
+6/13/03,Canada,242,32
+6/13/03,China,5327,343
+6/13/03,"Hong Kong SAR, China",1755,293
+6/13/03,"Macao SAR, China",1,0
+6/13/03,"Taiwan, China",693,81
+6/13/03,Colombia,1,0
+6/13/03,Finland,1,0
+6/13/03,France,7,0
+6/13/03,Germany,10,0
+6/13/03,India,3,0
+6/13/03,Indonesia,2,0
+6/13/03,Italy,9,0
+6/13/03,Kuwait,1,0
+6/13/03,Malaysia,5,2
+6/13/03,Mongolia,9,0
+6/13/03,New Zealand,1,0
+6/13/03,Philippines,14,2
+6/13/03,Republic of Ireland,1,0
+6/13/03,Republic of Korea,3,0
+6/13/03,Romania,1,0
+6/13/03,Russian Federation,1,0
+6/13/03,Singapore,206,31
+6/13/03,South Africa,1,1
+6/13/03,Spain,1,0
+6/13/03,Sweden,3,0
+6/13/03,Switzerland,1,0
+6/13/03,Thailand,9,2
+6/13/03,United Kingdom,4,0
+6/13/03,United States,71,0
+6/13/03,Viet Nam,63,5
+6/16/03,Brazil,3,0
+6/16/03,Canada,243,32
+6/16/03,China,5326,346
+6/16/03,"Hong Kong SAR, China",1755,295
+6/16/03,"Macao SAR, China",1,0
+6/16/03,"Taiwan, China",698,83
+6/16/03,Colombia,1,0
+6/16/03,Finland,1,0
+6/16/03,France,7,0
+6/16/03,Germany,10,0
+6/16/03,India,3,0
+6/16/03,Indonesia,2,0
+6/16/03,Italy,9,0
+6/16/03,Kuwait,1,0
+6/16/03,Malaysia,5,2
+6/16/03,Mongolia,9,0
+6/16/03,New Zealand,1,0
+6/16/03,Philippines,14,2
+6/16/03,Republic of Ireland,1,0
+6/16/03,Republic of Korea,3,0
+6/16/03,Romania,1,0
+6/16/03,Russian Federation,1,0
+6/16/03,Singapore,206,31
+6/16/03,South Africa,1,1
+6/16/03,Spain,1,0
+6/16/03,Sweden,3,0
+6/16/03,Switzerland,1,0
+6/16/03,Thailand,9,2
+6/16/03,United Kingdom,4,0
+6/16/03,United States,72,0
+6/16/03,Viet Nam,63,5
+6/17/03,Brazil,3,0
+6/17/03,Canada,247,32
+6/17/03,China,5326,346
+6/17/03,"Hong Kong SAR, China",1755,295
+6/17/03,"Macao SAR, China",1,0
+6/17/03,"Taiwan, China",697,83
+6/17/03,Colombia,1,0
+6/17/03,Finland,1,0
+6/17/03,France,7,0
+6/17/03,Germany,10,0
+6/17/03,India,3,0
+6/17/03,Indonesia,2,0
+6/17/03,Italy,9,0
+6/17/03,Kuwait,1,0
+6/17/03,Malaysia,5,2
+6/17/03,Mongolia,9,0
+6/17/03,New Zealand,1,0
+6/17/03,Philippines,14,2
+6/17/03,Republic of Ireland,1,0
+6/17/03,Republic of Korea,3,0
+6/17/03,Romania,1,0
+6/17/03,Russian Federation,1,0
+6/17/03,Singapore,206,31
+6/17/03,South Africa,1,1
+6/17/03,Spain,1,0
+6/17/03,Sweden,3,0
+6/17/03,Switzerland,1,0
+6/17/03,Thailand,9,2
+6/17/03,United Kingdom,4,0
+6/17/03,United States,73,0
+6/17/03,Viet Nam,63,5
+6/18/03,Brazil,3,0
+6/18/03,Canada,246,33
+6/18/03,China,5326,347
+6/18/03,"Hong Kong SAR, China",1755,295
+6/18/03,"Macao SAR, China",1,0
+6/18/03,"Taiwan, China",697,83
+6/18/03,Colombia,1,0
+6/18/03,Finland,1,0
+6/18/03,France,7,0
+6/18/03,Germany,10,0
+6/18/03,India,3,0
+6/18/03,Indonesia,2,0
+6/18/03,Italy,9,0
+6/18/03,Kuwait,1,0
+6/18/03,Malaysia,5,2
+6/18/03,Mongolia,9,0
+6/18/03,New Zealand,1,0
+6/18/03,Philippines,14,2
+6/18/03,Republic of Ireland,1,0
+6/18/03,Republic of Korea,3,0
+6/18/03,Romania,1,0
+6/18/03,Russian Federation,1,0
+6/18/03,Singapore,206,31
+6/18/03,South Africa,1,1
+6/18/03,Spain,1,0
+6/18/03,Sweden,3,0
+6/18/03,Switzerland,1,0
+6/18/03,Thailand,9,2
+6/18/03,United Kingdom,4,0
+6/18/03,United States,75,0
+6/18/03,Viet Nam,63,5
+6/19/03,Brazil,3,0
+6/19/03,Canada,245,34
+6/19/03,China,5326,347
+6/19/03,"Hong Kong SAR, China",1755,296
+6/19/03,"Macao SAR, China",1,0
+6/19/03,"Taiwan, China",695,84
+6/19/03,Colombia,1,0
+6/19/03,Finland,1,0
+6/19/03,France,7,0
+6/19/03,Germany,10,0
+6/19/03,India,3,0
+6/19/03,Indonesia,2,0
+6/19/03,Italy,9,0
+6/19/03,Kuwait,1,0
+6/19/03,Malaysia,5,2
+6/19/03,Mongolia,9,0
+6/19/03,New Zealand,1,0
+6/19/03,Philippines,14,2
+6/19/03,Republic of Ireland,1,0
+6/19/03,Republic of Korea,3,0
+6/19/03,Romania,1,0
+6/19/03,Russian Federation,1,0
+6/19/03,Singapore,206,31
+6/19/03,South Africa,1,1
+6/19/03,Spain,1,0
+6/19/03,Sweden,3,0
+6/19/03,Switzerland,1,0
+6/19/03,Thailand,9,2
+6/19/03,United Kingdom,4,0
+6/19/03,United States,75,0
+6/19/03,Viet Nam,63,5
+6/20/03,Brazil,3,0
+6/20/03,Canada,245,34
+6/20/03,China,5326,347
+6/20/03,"Hong Kong SAR, China",1755,296
+6/20/03,"Macao SAR, China",1,0
+6/20/03,"Taiwan, China",695,84
+6/20/03,Colombia,1,0
+6/20/03,Finland,1,0
+6/20/03,France,7,0
+6/20/03,Germany,10,0
+6/20/03,India,3,0
+6/20/03,Indonesia,2,0
+6/20/03,Italy,9,0
+6/20/03,Kuwait,1,0
+6/20/03,Malaysia,5,2
+6/20/03,Mongolia,9,0
+6/20/03,New Zealand,1,0
+6/20/03,Philippines,14,2
+6/20/03,Republic of Ireland,1,0
+6/20/03,Republic of Korea,3,0
+6/20/03,Romania,1,0
+6/20/03,Russian Federation,1,0
+6/20/03,Singapore,206,31
+6/20/03,South Africa,1,1
+6/20/03,Spain,1,0
+6/20/03,Sweden,3,0
+6/20/03,Switzerland,1,0
+6/20/03,Thailand,9,2
+6/20/03,United Kingdom,4,0
+6/20/03,United States,74,0
+6/20/03,Viet Nam,63,5
+6/23/03,Brazil,3,0
+6/23/03,Canada,246,35
+6/23/03,China,5326,347
+6/23/03,"Hong Kong SAR, China",1755,296
+6/23/03,"Macao SAR, China",1,0
+6/23/03,"Taiwan, China",692,84
+6/23/03,Colombia,1,0
+6/23/03,Finland,1,0
+6/23/03,France,7,0
+6/23/03,Germany,10,0
+6/23/03,India,3,0
+6/23/03,Indonesia,2,0
+6/23/03,Italy,9,0
+6/23/03,Kuwait,1,0
+6/23/03,Malaysia,5,2
+6/23/03,Mongolia,9,0
+6/23/03,New Zealand,1,0
+6/23/03,Philippines,14,2
+6/23/03,Republic of Ireland,1,0
+6/23/03,Republic of Korea,3,0
+6/23/03,Romania,1,0
+6/23/03,Russian Federation,1,0
+6/23/03,Singapore,206,31
+6/23/03,South Africa,1,1
+6/23/03,Spain,1,0
+6/23/03,Sweden,3,0
+6/23/03,Switzerland,1,0
+6/23/03,Thailand,9,2
+6/23/03,United Kingdom,4,0
+6/23/03,United States,74,0
+6/23/03,Viet Nam,63,5
+6/24/03,Brazil,3,0
+6/24/03,Canada,249,37
+6/24/03,China,5326,347
+6/24/03,"Hong Kong SAR, China",1755,296
+6/24/03,"Macao SAR, China",1,0
+6/24/03,"Taiwan, China",687,84
+6/24/03,Colombia,1,0
+6/24/03,Finland,1,0
+6/24/03,France,7,0
+6/24/03,Germany,10,0
+6/24/03,India,3,0
+6/24/03,Indonesia,2,0
+6/24/03,Italy,9,0
+6/24/03,Kuwait,1,0
+6/24/03,Malaysia,5,2
+6/24/03,Mongolia,9,0
+6/24/03,New Zealand,1,0
+6/24/03,Philippines,14,2
+6/24/03,Republic of Ireland,1,0
+6/24/03,Republic of Korea,3,0
+6/24/03,Romania,1,0
+6/24/03,Russian Federation,1,0
+6/24/03,Singapore,206,31
+6/24/03,South Africa,1,1
+6/24/03,Spain,1,0
+6/24/03,Sweden,3,0
+6/24/03,Switzerland,1,0
+6/24/03,Thailand,9,2
+6/24/03,United Kingdom,4,0
+6/24/03,United States,75,0
+6/24/03,Viet Nam,63,5
+6/25/03,Brazil,3,0
+6/25/03,Canada,250,37
+6/25/03,China,5327,348
+6/25/03,"Hong Kong SAR, China",1755,296
+6/25/03,"Macao SAR, China",1,0
+6/25/03,"Taiwan, China",686,84
+6/25/03,Colombia,1,0
+6/25/03,Finland,1,0
+6/25/03,France,7,0
+6/25/03,Germany,10,0
+6/25/03,India,3,0
+6/25/03,Indonesia,2,0
+6/25/03,Italy,9,0
+6/25/03,Japan,1,0
+6/25/03,Kuwait,1,0
+6/25/03,Malaysia,5,2
+6/25/03,Mongolia,9,0
+6/25/03,New Zealand,1,0
+6/25/03,Philippines,14,2
+6/25/03,Republic of Ireland,1,0
+6/25/03,Republic of Korea,3,0
+6/25/03,Romania,1,0
+6/25/03,Russian Federation,1,0
+6/25/03,Singapore,206,31
+6/25/03,South Africa,1,1
+6/25/03,Spain,1,0
+6/25/03,Sweden,3,0
+6/25/03,Switzerland,1,0
+6/25/03,Thailand,9,2
+6/25/03,United Kingdom,4,0
+6/25/03,United States,75,0
+6/25/03,Viet Nam,63,5
+6/26/03,Brazil,3,0
+6/26/03,Canada,251,37
+6/26/03,China,5327,348
+6/26/03,"Hong Kong SAR, China",1755,296
+6/26/03,"Macao SAR, China",1,0
+6/26/03,"Taiwan, China",682,84
+6/26/03,Colombia,1,0
+6/26/03,Finland,1,0
+6/26/03,France,7,0
+6/26/03,Germany,10,0
+6/26/03,India,3,0
+6/26/03,Indonesia,2,0
+6/26/03,Italy,9,0
+6/26/03,Japan,1,0
+6/26/03,Kuwait,1,0
+6/26/03,Malaysia,5,2
+6/26/03,Mongolia,9,0
+6/26/03,New Zealand,1,0
+6/26/03,Philippines,14,2
+6/26/03,Republic of Ireland,1,0
+6/26/03,Republic of Korea,3,0
+6/26/03,Romania,1,0
+6/26/03,Russian Federation,1,0
+6/26/03,Singapore,206,32
+6/26/03,South Africa,1,1
+6/26/03,Spain,1,0
+6/26/03,Sweden,3,0
+6/26/03,Switzerland,1,0
+6/26/03,Thailand,9,2
+6/26/03,United Kingdom,4,0
+6/26/03,United States,74,0
+6/26/03,Viet Nam,63,5
+6/27/03,Brazil,3,0
+6/27/03,Canada,251,37
+6/27/03,China,5327,348
+6/27/03,"Hong Kong SAR, China",1755,297
+6/27/03,"Macao SAR, China",1,0
+6/27/03,"Taiwan, China",681,84
+6/27/03,Colombia,1,0
+6/27/03,Finland,1,0
+6/27/03,France,7,0
+6/27/03,Germany,10,0
+6/27/03,India,3,0
+6/27/03,Indonesia,2,0
+6/27/03,Italy,5,0
+6/27/03,Kuwait,1,0
+6/27/03,Malaysia,5,2
+6/27/03,Mongolia,9,0
+6/27/03,New Zealand,1,0
+6/27/03,Philippines,14,2
+6/27/03,Republic of Ireland,1,0
+6/27/03,Republic of Korea,3,0
+6/27/03,Romania,1,0
+6/27/03,Russian Federation,1,0
+6/27/03,Singapore,206,32
+6/27/03,South Africa,1,1
+6/27/03,Spain,1,0
+6/27/03,Sweden,3,0
+6/27/03,Switzerland,1,0
+6/27/03,Thailand,9,2
+6/27/03,United Kingdom,4,0
+6/27/03,United States,74,0
+6/27/03,Viet Nam,63,5
+6/30/03,Australia,5,0
+6/30/03,Brazil,3,0
+6/30/03,Canada,252,37
+6/30/03,China,5327,348
+6/30/03,"Hong Kong SAR, China",1755,298
+6/30/03,"Macao SAR, China",1,0
+6/30/03,"Taiwan, China",678,84
+6/30/03,Colombia,1,0
+6/30/03,Finland,1,0
+6/30/03,France,7,0
+6/30/03,Germany,10,0
+6/30/03,India,3,0
+6/30/03,Indonesia,2,0
+6/30/03,Italy,5,0
+6/30/03,Kuwait,1,0
+6/30/03,Malaysia,5,2
+6/30/03,Mongolia,9,0
+6/30/03,New Zealand,1,0
+6/30/03,Philippines,14,2
+6/30/03,Republic of Ireland,1,0
+6/30/03,Republic of Korea,3,0
+6/30/03,Romania,1,0
+6/30/03,Russian Federation,1,0
+6/30/03,Singapore,206,32
+6/30/03,South Africa,1,1
+6/30/03,Spain,1,0
+6/30/03,Sweden,3,0
+6/30/03,Switzerland,1,0
+6/30/03,Thailand,9,2
+6/30/03,United Kingdom,4,0
+6/30/03,United States,73,0
+6/30/03,Viet Nam,63,5
+7/1/03,Brazil,1,0
+7/1/03,Canada,252,38
+7/1/03,China,5327,348
+7/1/03,"Hong Kong SAR, China",1755,298
+7/1/03,"Macao SAR, China",1,0
+7/1/03,"Taiwan, China",678,84
+7/1/03,Colombia,1,0
+7/1/03,Finland,1,0
+7/1/03,France,7,0
+7/1/03,Germany,10,0
+7/1/03,India,3,0
+7/1/03,Indonesia,2,0
+7/1/03,Italy,5,0
+7/1/03,Kuwait,1,0
+7/1/03,Malaysia,5,2
+7/1/03,Mongolia,9,0
+7/1/03,New Zealand,1,0
+7/1/03,Philippines,14,2
+7/1/03,Republic of Ireland,1,0
+7/1/03,Republic of Korea,3,0
+7/1/03,Romania,1,0
+7/1/03,Russian Federation,1,0
+7/1/03,Singapore,206,32
+7/1/03,South Africa,1,1
+7/1/03,Spain,1,0
+7/1/03,Sweden,3,0
+7/1/03,Switzerland,1,0
+7/1/03,Thailand,9,2
+7/1/03,United Kingdom,4,0
+7/1/03,United States,73,0
+7/1/03,Viet Nam,63,5
+7/2/03,Brazil,1,0
+7/2/03,Canada,252,38
+7/2/03,China,5327,348
+7/2/03,"Hong Kong SAR, China",1755,298
+7/2/03,"Macao SAR, China",1,0
+7/2/03,"Taiwan, China",676,84
+7/2/03,Colombia,1,0
+7/2/03,Finland,1,0
+7/2/03,France,7,0
+7/2/03,Germany,10,0
+7/2/03,India,3,0
+7/2/03,Indonesia,2,0
+7/2/03,Italy,4,0
+7/2/03,Kuwait,1,0
+7/2/03,Malaysia,5,2
+7/2/03,Mongolia,9,0
+7/2/03,New Zealand,1,0
+7/2/03,Philippines,14,2
+7/2/03,Republic of Ireland,1,0
+7/2/03,Republic of Korea,3,0
+7/2/03,Romania,1,0
+7/2/03,Russian Federation,1,0
+7/2/03,Singapore,206,32
+7/2/03,South Africa,1,1
+7/2/03,Spain,1,0
+7/2/03,Sweden,3,0
+7/2/03,Switzerland,1,0
+7/2/03,Thailand,9,2
+7/2/03,United Kingdom,4,0
+7/2/03,United States,73,0
+7/2/03,Viet Nam,63,5
+7/3/03,Brazil,1,0
+7/3/03,Canada,251,38
+7/3/03,China,5327,348
+7/3/03,"Hong Kong SAR, China",1755,298
+7/3/03,"Macao SAR, China",1,0
+7/3/03,"Taiwan, China",674,84
+7/3/03,Colombia,1,0
+7/3/03,Finland,1,0
+7/3/03,France,7,0
+7/3/03,Germany,10,0
+7/3/03,India,3,0
+7/3/03,Indonesia,2,0
+7/3/03,Italy,4,0
+7/3/03,Kuwait,1,0
+7/3/03,Malaysia,5,2
+7/3/03,Mongolia,9,0
+7/3/03,New Zealand,1,0
+7/3/03,Philippines,14,2
+7/3/03,Republic of Ireland,1,0
+7/3/03,Republic of Korea,3,0
+7/3/03,Romania,1,0
+7/3/03,Russian Federation,1,0
+7/3/03,Singapore,206,32
+7/3/03,South Africa,1,1
+7/3/03,Spain,1,0
+7/3/03,Sweden,3,0
+7/3/03,Switzerland,1,0
+7/3/03,Thailand,9,2
+7/3/03,United Kingdom,4,0
+7/3/03,United States,73,0
+7/3/03,Viet Nam,63,5
+7/4/03,Brazil,1,0
+7/4/03,Canada,251,38
+7/4/03,China,5327,348
+7/4/03,"Hong Kong SAR, China",1755,298
+7/4/03,"Macao SAR, China",1,0
+7/4/03,"Taiwan, China",674,84
+7/4/03,Colombia,1,0
+7/4/03,Finland,1,0
+7/4/03,France,7,0
+7/4/03,Germany,10,0
+7/4/03,India,3,0
+7/4/03,Indonesia,2,0
+7/4/03,Italy,4,0
+7/4/03,Kuwait,1,0
+7/4/03,Malaysia,5,2
+7/4/03,Mongolia,9,0
+7/4/03,New Zealand,1,0
+7/4/03,Philippines,14,2
+7/4/03,Republic of Ireland,1,0
+7/4/03,Republic of Korea,3,0
+7/4/03,Romania,1,0
+7/4/03,Russian Federation,1,0
+7/4/03,Singapore,206,32
+7/4/03,South Africa,1,1
+7/4/03,Spain,1,0
+7/4/03,Sweden,3,0
+7/4/03,Switzerland,1,0
+7/4/03,Thailand,9,2
+7/4/03,United Kingdom,4,0
+7/4/03,United States,73,0
+7/4/03,Viet Nam,63,5
+7/7/03,Brazil,1,0
+7/7/03,Canada,251,38
+7/7/03,China,5327,348
+7/7/03,"Hong Kong SAR, China",1755,298
+7/7/03,"Macao SAR, China",1,0
+7/7/03,"Taiwan, China",674,84
+7/7/03,Colombia,1,0
+7/7/03,Finland,1,0
+7/7/03,France,7,0
+7/7/03,Germany,10,0
+7/7/03,India,3,0
+7/7/03,Indonesia,2,0
+7/7/03,Italy,4,0
+7/7/03,Kuwait,1,0
+7/7/03,Malaysia,5,2
+7/7/03,Mongolia,9,0
+7/7/03,New Zealand,1,0
+7/7/03,Philippines,14,2
+7/7/03,Republic of Ireland,1,0
+7/7/03,Republic of Korea,3,0
+7/7/03,Romania,1,0
+7/7/03,Russian Federation,1,0
+7/7/03,Singapore,206,32
+7/7/03,South Africa,1,1
+7/7/03,Spain,1,0
+7/7/03,Sweden,3,0
+7/7/03,Switzerland,1,0
+7/7/03,Thailand,9,2
+7/7/03,United Kingdom,4,0
+7/7/03,United States,73,0
+7/7/03,Viet Nam,63,5
+7/8/03,Brazil,1,0
+7/8/03,Canada,250,38
+7/8/03,China,5327,348
+7/8/03,"Hong Kong SAR, China",1755,298
+7/8/03,"Macao SAR, China",1,0
+7/8/03,"Taiwan, China",671,84
+7/8/03,Colombia,1,0
+7/8/03,Finland,1,0
+7/8/03,France,7,0
+7/8/03,Germany,10,0
+7/8/03,India,3,0
+7/8/03,Indonesia,2,0
+7/8/03,Italy,4,0
+7/8/03,Kuwait,1,0
+7/8/03,Malaysia,5,2
+7/8/03,Mongolia,9,0
+7/8/03,New Zealand,1,0
+7/8/03,Philippines,14,2
+7/8/03,Republic of Ireland,1,0
+7/8/03,Republic of Korea,3,0
+7/8/03,Romania,1,0
+7/8/03,Russian Federation,1,0
+7/8/03,Singapore,206,32
+7/8/03,South Africa,1,1
+7/8/03,Spain,1,0
+7/8/03,Sweden,3,0
+7/8/03,Switzerland,1,0
+7/8/03,Thailand,9,2
+7/8/03,United Kingdom,4,0
+7/8/03,United States,74,0
+7/8/03,Viet Nam,63,5
+7/9/03,Brazil,1,0
+7/9/03,Canada,249,38
+7/9/03,China,5327,348
+7/9/03,"Hong Kong SAR, China",1755,298
+7/9/03,"Macao SAR, China",1,0
+7/9/03,"Taiwan, China",671,84
+7/9/03,Colombia,1,0
+7/9/03,Finland,1,0
+7/9/03,France,7,0
+7/9/03,Germany,10,0
+7/9/03,India,3,0
+7/9/03,Indonesia,2,0
+7/9/03,Italy,4,0
+7/9/03,Kuwait,1,0
+7/9/03,Malaysia,5,2
+7/9/03,Mongolia,9,0
+7/9/03,New Zealand,1,0
+7/9/03,Philippines,14,2
+7/9/03,Republic of Ireland,1,0
+7/9/03,Republic of Korea,3,0
+7/9/03,Romania,1,0
+7/9/03,Russian Federation,1,0
+7/9/03,Singapore,206,32
+7/9/03,South Africa,1,1
+7/9/03,Spain,1,0
+7/9/03,Sweden,3,0
+7/9/03,Switzerland,1,0
+7/9/03,Thailand,9,2
+7/9/03,United Kingdom,4,0
+7/9/03,United States,75,0
+7/9/03,Viet Nam,63,5
+7/10/03,Brazil,1,0
+7/10/03,Canada,250,38
+7/10/03,China,5327,348
+7/10/03,"Hong Kong SAR, China",1755,298
+7/10/03,"Macao SAR, China",1,0
+7/10/03,"Taiwan, China",671,84
+7/10/03,Colombia,1,0
+7/10/03,Finland,1,0
+7/10/03,France,7,0
+7/10/03,Germany,10,0
+7/10/03,India,3,0
+7/10/03,Indonesia,2,0
+7/10/03,Italy,4,0
+7/10/03,Kuwait,1,0
+7/10/03,Malaysia,5,2
+7/10/03,Mongolia,9,0
+7/10/03,New Zealand,1,0
+7/10/03,Philippines,14,2
+7/10/03,Republic of Ireland,1,0
+7/10/03,Republic of Korea,3,0
+7/10/03,Romania,1,0
+7/10/03,Russian Federation,1,0
+7/10/03,Singapore,206,32
+7/10/03,South Africa,1,1
+7/10/03,Spain,1,0
+7/10/03,Sweden,3,0
+7/10/03,Switzerland,1,0
+7/10/03,Thailand,9,2
+7/10/03,United Kingdom,4,0
+7/10/03,United States,75,0
+7/10/03,Viet Nam,63,5
+7/11/03,Brazil,1,0
+7/11/03,Canada,250,38
+7/11/03,China,5327,348
+7/11/03,"Hong Kong SAR, China",1755,298
+7/11/03,"Macao SAR, China",1,0
+7/11/03,"Taiwan, China",671,84
+7/11/03,Colombia,1,0
+7/11/03,Finland,1,0
+7/11/03,France,7,1
+7/11/03,Germany,10,0
+7/11/03,India,3,0
+7/11/03,Indonesia,2,0
+7/11/03,Italy,4,0
+7/11/03,Kuwait,1,0
+7/11/03,Malaysia,5,2
+7/11/03,Mongolia,9,0
+7/11/03,New Zealand,1,0
+7/11/03,Philippines,14,2
+7/11/03,Republic of Ireland,1,0
+7/11/03,Republic of Korea,3,0
+7/11/03,Romania,1,0
+7/11/03,Russian Federation,1,0
+7/11/03,Singapore,206,32
+7/11/03,South Africa,1,1
+7/11/03,Spain,1,0
+7/11/03,Sweden,3,0
+7/11/03,Switzerland,1,0
+7/11/03,Thailand,9,2
+7/11/03,United Kingdom,4,0
+7/11/03,United States,75,0
+7/11/03,Viet Nam,63,5
